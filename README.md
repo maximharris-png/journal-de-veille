@@ -10,3 +10,6 @@ md à chaque veille. -->
 **Pourquoi c'est utile pour un développeur web** : <!-- une phrase.-->
 **Ce que je veais faire ou vérifier** : <!-- une action conrète (réglage, habitude, lecture). -->
 
+## google
+[google](https://www.google.com/?hl=fr)
+[scratch](https://scratch.mit.edu/)
